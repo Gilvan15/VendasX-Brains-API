@@ -43,6 +43,7 @@ class VendasApplicationTests {
 			07 "abilitar accesso ao h2 em aplications.properties: spring.h2.console.enabled=true"
 			08 "Verificação do mapeamento relacional das tabelas no banco H2"
 			09 "criação do arquivo import.sql para popular as tabelas no H2"
+			10 "criação das classes Repositorys: VendaRepository, VendedorRepository"
 		*/
 
 		
