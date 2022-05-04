@@ -39,6 +39,7 @@ class VendasApplicationTests {
 			03 "criação dos sub pacotes: entity, controllers, repository e service"
 			04 "criação das entidades no pacote entity: Venda e Vendedor"
 			05 "criação do mapeameto relacional das entidades Venda e Vendedor"
+			06 "criaçao do relacionamento OneToMany e ManyToOne das entidades"
 		*/
 
 		
