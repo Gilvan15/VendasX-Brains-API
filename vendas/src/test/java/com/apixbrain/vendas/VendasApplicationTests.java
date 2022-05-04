@@ -51,6 +51,7 @@ class VendasApplicationTests {
 			15 "verificação do endpoint no postman do métodos adicioar Venda"
 			16 "verificação do endpoint no postman do métodos Listar Vendas"
 			17 "verificação do endpoint no postman do métodos adicioar Vendedor"
+			18 "verificação do endpoint no postman do métodos Listar Vendedor"
 		
 		*/
 
