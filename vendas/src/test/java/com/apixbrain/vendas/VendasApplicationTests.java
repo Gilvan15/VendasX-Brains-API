@@ -37,6 +37,7 @@ class VendasApplicationTests {
 			01 "commit inicial - estrutura basica do projeto vendaxbraintest com as dependencias: h2,web,jpa,lombok,devtools - mavem"
 			02 "criação do pacote raíz: domain"
 			03 "criação dos sub pacotes: entity, controllers, repository e service"
+			04 "criação das entidades no pacote entity: Venda e Vendedor"
 		*/
 
 		
