@@ -53,6 +53,7 @@ class VendasApplicationTests {
 			17 "verificação do endpoint no postman do métodos adicioar Vendedor"
 			18 "verificação do endpoint no postman do métodos Listar Vendedor"
 			19 "verificação do endpoint no postman do métodos Listar Vendedor com os parametros de consulta por período de data"
+			20 "verificaões finais e finalização do projeto"
 			
 		
 		*/
