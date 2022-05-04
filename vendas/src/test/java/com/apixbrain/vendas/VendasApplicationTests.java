@@ -46,6 +46,7 @@ class VendasApplicationTests {
 			10 "criação das classes Repositorys: VendaRepository, VendedorRepository"
 			11 "criação das classes Serviços: VendaService, VendedorService"
 			12 "criacao das classes controllers: VendaController, VendedorController"
+			13 "criação e implementação dos métodos adicionar e listar em VendaController"
 		
 		*/
 
