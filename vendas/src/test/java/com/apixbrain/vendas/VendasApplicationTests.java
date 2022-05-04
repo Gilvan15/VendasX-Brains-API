@@ -48,6 +48,7 @@ class VendasApplicationTests {
 			12 "criacao das classes controllers: VendaController, VendedorController"
 			13 "criação e implementação dos métodos adicionar e listar em VendaController"
 			14 "criação e implementação dos métodos adicionar e listar em VendedorController"
+			15 "verificação do endpoint no postman do métodos adicioar Venda"
 		
 		*/
 
