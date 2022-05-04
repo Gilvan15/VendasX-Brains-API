@@ -40,6 +40,7 @@ class VendasApplicationTests {
 			04 "criação das entidades no pacote entity: Venda e Vendedor"
 			05 "criação do mapeameto relacional das entidades Venda e Vendedor"
 			06 "criaçao do relacionamento OneToMany e ManyToOne das entidades"
+			07 "abilitar accesso ao h2 em aplications.properties: spring.h2.console.enabled=true"
 		*/
 
 		
