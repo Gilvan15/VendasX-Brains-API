@@ -45,6 +45,8 @@ class VendasApplicationTests {
 			09 "criação do arquivo import.sql para popular as tabelas no H2"
 			10 "criação das classes Repositorys: VendaRepository, VendedorRepository"
 			11 "criação das classes Serviços: VendaService, VendedorService"
+			12 "criacao das classes controllers: VendaController, VendedorController"
+		
 		*/
 
 		
